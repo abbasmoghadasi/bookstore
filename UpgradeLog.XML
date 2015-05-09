@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ketabkhane">
+</Property><Property Name="Solution File" Value="F:\Customer\ketabkhaneh\ketabkhane\ketabkhane.sln">
+</Property><Property Name="User Options File" Value="F:\Customer\ketabkhaneh\ketabkhane\ketabkhane.suo">
+</Property><Property Name="Date" Value="الثلاثاء, نوفمبر 20, 2012">
+</Property><Property Name="Time" Value="15:17 ب.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ketabkhane.sln" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ketabkhane.suo" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane.suo">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\ketabkhane.vbproj" Description="Project file successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\ketabkhane.vbproj">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\ketabkhane.vbproj.user" Description="Project user file successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\ketabkhane.vbproj.user">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\bankDataSet.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\bankDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\Form1.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\Form1.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\Form1.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_amant.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_amant.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_amant.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_amant.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_book_select.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_book_select.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_book_select.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_book_select.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_def_book.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_def_book.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_def_book.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_def_book.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_member.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_member.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_member.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_member.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_select_mem.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_select_mem.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_select_mem.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_select_mem.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\Module1.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\Module1.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\My Project\AssemblyInfo.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\My Project\Application.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\My Project\Resources.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\My Project\Settings.Designer.vb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\app.config" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\app.config">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\bankDataSet.xsc" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\bankDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\bankDataSet.xsd" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\bankDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\bankDataSet.xss" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\bankDataSet.xss">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\My Project\Application.myapp" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\My Project\Settings.settings" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\bank.mdb" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\bank.mdb">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\color.ico" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\color.ico">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\Form1.resx" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_amant.resx" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_amant.resx">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_book_select.resx" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_book_select.resx">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_def_book.resx" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_def_book.resx">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_member.resx" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_member.resx">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\frm_select_mem.resx" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\frm_select_mem.resx">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\My Project\licenses.licx" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\My Project\licenses.licx">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\My Project\Resources.resx" Description="File successfully backed up as F:\Customer\ketabkhaneh\ketabkhane\Backup\ketabkhane\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="ketabkhane" Source="ketabkhane\ketabkhane.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\ketabkhane.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ketabkhane" Source="ketabkhane\ketabkhane.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ketabkhane.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ketabkhane.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ketabkhane" Source="ketabkhane\ketabkhane.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,4 @@
+PureComponents.ScheduleSet.Calendars.Clock, PureComponents.ScheduleSet, Version=2008.1.507.0, Culture=neutral, PublicKeyToken=4f90fce1210833dc
+PureComponents.EntrySet.Controls.Divider, PureComponents.EntrySet, Version=2008.1.507.0, Culture=neutral, PublicKeyToken=4f90fce1210833dc
+Janus.Windows.EditControls.UIButton, Janus.Windows.UI.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=null
+Janus.Windows.GridEX.GridEX, Janus.Windows.GridEX.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=null

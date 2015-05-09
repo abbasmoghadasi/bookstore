@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ketabkhane_n
+</name>
+</assembly>
+<members>
+<member name="T:ketabkhane_n.bankDataSet.t_bookDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_memberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_amanatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_setDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_bookRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_memberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_amanatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_setRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_bookRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_memberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_amanatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet.t_setRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSetTableAdapters.t_bookTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSetTableAdapters.t_memberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSetTableAdapters.t_amanatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSetTableAdapters.t_setTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:ketabkhane_n.bankDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ketabkhane_n.bankDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:ketabkhane_n.bankDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ketabkhane_n.bankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:ketabkhane_n.bankDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ketabkhane_n.bankDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:ketabkhane_n.bankDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:ketabkhane_n.bankDataSetTableAdapters.TableAdapterManager.UpdateAll(ketabkhane_n.bankDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:ketabkhane_n.bankDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:ketabkhane_n.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ketabkhane_n.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ketabkhane_n.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
